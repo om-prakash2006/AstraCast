@@ -1,0 +1,6 @@
+{
+  "name": "AstraCast Nowcast Terminal",
+  "description": "Real-time meteorological terminal with live Doppler radar streams, surface telemetry, 0-3h nowcasting, and AI bulletin synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
